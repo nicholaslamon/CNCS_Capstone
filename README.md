@@ -13,3 +13,11 @@ This topic is relevant and important in the world of cybersecurity becuase physi
 For this topic we would implement physical security measures (door access, cameras, etc) where resources allow into a lab type enviornment. We would build a seperate network issolated from a main network but still accessible, both onsite and remotely. This topic would be rigorous enough due to the multitude of different technologies that would need to be implemneted for all of this to work.
   
 ### Incident Reponse Plan
+
+**Overview**
+
+This topic is important due to the implications that threat actors carry in today's cyber landscape. Ransomware has become a several billion dollar business globally, and it impacts businesses of every size. The purpose of a Incident Response plan is to a crisis plan in place so that when a network starts to become compromised, no one is running around with their head cut off.
+
+**Description**
+
+Working on this topic, we would reach out to the various branches of Champlain to understand a few key things: the location of certain PII data, the overall network structure on the Champlain campus, and who has access to what. Once that knowledge is known (as much as a student can know), we will then start determining the best course of action when certain indicators of compromise (IOCs) present themselves.
