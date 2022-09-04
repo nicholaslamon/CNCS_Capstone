@@ -1,6 +1,8 @@
 # CNCS Capstone
 Welcome to our Github Repo that will document the growth and development of our Capstone Project. This project will be a dynamic, living thing that will likely change dozens of times over the course of our fall semester. During the spring semester, we shall excuted and develop our tested project.
 
+https://user-images.githubusercontent.com/70776282/188330339-bd1f47bc-830b-4cfe-982e-daf738e59b38.mp4
+
 ## Current Project Ideas
 ### Home Security
 
